@@ -1,0 +1,10 @@
+build.py
+validate.py
+vendor/**
+Makefile
+.gitignore
+.vscodeignore
+**/__pycache__/**
+*.pyc
+docs/
+preview/*.svg

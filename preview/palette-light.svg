@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="822" viewBox="0 0 760 822" role="img" font-family="ui-monospace, monospace">
+  <title>42vibes palette preview (Light)</title>
+  <rect width="760" height="822" fill="#f7fafc"/>
+  <text x="28" y="48" fill="#177a69" font-size="22" font-weight="bold" font-family="ui-monospace, monospace">42vibes · Light</text>
+  <text x="28" y="70" fill="#3f5262" font-size="13" font-family="ui-monospace, monospace">Semantische Tokens und ANSI 0–15, generiert aus vendor/palette.json</text>
+  <line x1="28" y1="82" x2="732" y2="82" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="28" y="104" fill="#3f5262" font-size="12" letter-spacing="1.5" font-family="ui-monospace, monospace">SEMANTIC</text>
+  <rect x="28" y="124" width="48" height="24" rx="4" fill="#f7fafc" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="140" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">bg</text>
+  <text x="364" y="140" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#f7fafc</text>
+  <rect x="28" y="164" width="48" height="24" rx="4" fill="#e6eef5" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="180" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">bg_deep</text>
+  <text x="364" y="180" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#e6eef5</text>
+  <rect x="28" y="204" width="48" height="24" rx="4" fill="#e6eef5" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="220" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">surface</text>
+  <text x="364" y="220" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#e6eef5</text>
+  <rect x="28" y="244" width="48" height="24" rx="4" fill="#d5e2ee" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="260" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">surface_high</text>
+  <text x="364" y="260" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#d5e2ee</text>
+  <rect x="28" y="284" width="48" height="24" rx="4" fill="#c3d5e4" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="300" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">surface_max</text>
+  <text x="364" y="300" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#c3d5e4</text>
+  <rect x="28" y="324" width="48" height="24" rx="4" fill="#08141f" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="340" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">text</text>
+  <text x="364" y="340" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#08141f</text>
+  <rect x="28" y="364" width="48" height="24" rx="4" fill="#3f5262" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="380" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">text_muted</text>
+  <text x="364" y="380" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#3f5262</text>
+  <rect x="28" y="404" width="48" height="24" rx="4" fill="#5a6f80" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="420" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">text_faint</text>
+  <text x="364" y="420" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#5a6f80</text>
+  <rect x="392" y="124" width="48" height="24" rx="4" fill="#177a69" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="140" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">accent</text>
+  <text x="728" y="140" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#177a69</text>
+  <rect x="392" y="164" width="48" height="24" rx="4" fill="#2f7191" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="180" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">interactive</text>
+  <text x="728" y="180" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#2f7191</text>
+  <rect x="392" y="204" width="48" height="24" rx="4" fill="#a9761f" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="220" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">warm</text>
+  <text x="728" y="220" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#a9761f</text>
+  <rect x="392" y="244" width="48" height="24" rx="4" fill="#a8bfd1" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="260" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">border</text>
+  <text x="728" y="260" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#a8bfd1</text>
+  <rect x="392" y="284" width="48" height="24" rx="4" fill="#177a69" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="300" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">success</text>
+  <text x="728" y="300" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#177a69</text>
+  <rect x="392" y="324" width="48" height="24" rx="4" fill="#a9761f" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="340" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">warning</text>
+  <text x="728" y="340" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#a9761f</text>
+  <rect x="392" y="364" width="48" height="24" rx="4" fill="#b04a58" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="380" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">error</text>
+  <text x="728" y="380" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#b04a58</text>
+  <rect x="392" y="404" width="48" height="24" rx="4" fill="#237c82" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="420" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">info</text>
+  <text x="728" y="420" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#237c82</text>
+  <text x="28" y="462" fill="#3f5262" font-size="12" letter-spacing="1.5" font-family="ui-monospace, monospace">ANSI 0–15</text>
+  <rect x="28" y="482" width="48" height="24" rx="4" fill="#08141f" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="498" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">0 black</text>
+  <text x="364" y="498" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#08141f</text>
+  <rect x="28" y="522" width="48" height="24" rx="4" fill="#b04a58" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="538" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">1 red</text>
+  <text x="364" y="538" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#b04a58</text>
+  <rect x="28" y="562" width="48" height="24" rx="4" fill="#177a69" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="578" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">2 green</text>
+  <text x="364" y="578" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#177a69</text>
+  <rect x="28" y="602" width="48" height="24" rx="4" fill="#a9761f" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="618" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">3 yellow</text>
+  <text x="364" y="618" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#a9761f</text>
+  <rect x="28" y="642" width="48" height="24" rx="4" fill="#2f7191" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="658" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">4 blue</text>
+  <text x="364" y="658" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#2f7191</text>
+  <rect x="28" y="682" width="48" height="24" rx="4" fill="#6a5aa8" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="698" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">5 magenta</text>
+  <text x="364" y="698" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#6a5aa8</text>
+  <rect x="28" y="722" width="48" height="24" rx="4" fill="#237c82" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="738" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">6 cyan</text>
+  <text x="364" y="738" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#237c82</text>
+  <rect x="28" y="762" width="48" height="24" rx="4" fill="#d7e2ec" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="88" y="778" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">7 white</text>
+  <text x="364" y="778" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#d7e2ec</text>
+  <rect x="392" y="482" width="48" height="24" rx="4" fill="#5a6f80" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="498" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">8 bright_black</text>
+  <text x="728" y="498" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#5a6f80</text>
+  <rect x="392" y="522" width="48" height="24" rx="4" fill="#d06774" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="538" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">9 bright_red</text>
+  <text x="728" y="538" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#d06774</text>
+  <rect x="392" y="562" width="48" height="24" rx="4" fill="#2c9c86" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="578" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">10 bright_green</text>
+  <text x="728" y="578" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#2c9c86</text>
+  <rect x="392" y="602" width="48" height="24" rx="4" fill="#c28f2e" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="618" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">11 bright_yellow</text>
+  <text x="728" y="618" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#c28f2e</text>
+  <rect x="392" y="642" width="48" height="24" rx="4" fill="#3f8cad" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="658" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">12 bright_blue</text>
+  <text x="728" y="658" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#3f8cad</text>
+  <rect x="392" y="682" width="48" height="24" rx="4" fill="#8574c2" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="698" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">13 bright_magenta</text>
+  <text x="728" y="698" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#8574c2</text>
+  <rect x="392" y="722" width="48" height="24" rx="4" fill="#2f969c" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="738" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">14 bright_cyan</text>
+  <text x="728" y="738" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#2f969c</text>
+  <rect x="392" y="762" width="48" height="24" rx="4" fill="#f7fafc" stroke="#a8bfd1" stroke-width="1"/>
+  <text x="452" y="778" fill="#08141f" font-size="13" font-family="ui-monospace, monospace">15 bright_white</text>
+  <text x="728" y="778" fill="#3f5262" font-size="12" text-anchor="end" font-family="ui-monospace, monospace">#f7fafc</text>
+</svg>
