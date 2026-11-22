@@ -101,12 +101,14 @@ Die Screenshots liegen unter `docs/` und sind vom VSIX ausgeschlossen.
 ### Lokal aus einem VSIX
 
 ```sh
+npx --yes @vscode/vsce package
 code --install-extension 42vibes-theme-0.1.0.vsix
 ```
 
-Ein VSIX wird in diesem Repository **nicht** eingecheckt. Es lässt sich lokal
-mit dem Befehl aus dem [Packaging-Hinweis](#packaging-hinweis) bauen; die
-erzeugte Datei bleibt unversioniert (`*.vsix` steht in `.gitignore`).
+Für VSCodium entsprechend `codium --install-extension
+42vibes-theme-0.1.0.vsix`. Ein VSIX wird in diesem Repository **nicht**
+eingecheckt; die erzeugte Datei bleibt unversioniert (`*.vsix` steht in
+`.gitignore`).
 
 ### Direkter Dev-Test ohne VSIX
 
